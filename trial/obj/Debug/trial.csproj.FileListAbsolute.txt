@@ -1,0 +1,4 @@
+C:\Users\pooja\Documents\Visual Studio 2010\Projects\trial\trial\bin\trial.dll
+C:\Users\pooja\Documents\Visual Studio 2010\Projects\trial\trial\bin\trial.pdb
+C:\Users\pooja\Documents\Visual Studio 2010\Projects\trial\trial\obj\Debug\trial.dll
+C:\Users\pooja\Documents\Visual Studio 2010\Projects\trial\trial\obj\Debug\trial.pdb
